@@ -1,2 +1,2 @@
 # PortFolio
-A FrreCodeCamp website project that started in CodePen
+A FreeCodeCamp website project that started in CodePen
