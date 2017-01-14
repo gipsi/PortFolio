@@ -1,22 +1,21 @@
-   body {
+  body {
       font: 20px Montserrat, sans-serif;
       line-height: 1.8;
       color: #f5f6f7;
   }
   p {font-size: 16px;}
-  .margin {margin-bottom: 0;
-margin-top: 0;}
+  .margin {margin-bottom: 45px;}
   .bg-1 {
-      background-color: green; /*#373640;   purple */ 
+      background-color:  #d99d29;   /* #373640;  purple */
       color: #ffffff;
   }
   .bg-2 {
-      background-color:  #474e5d;  /* Dark Blue */
+      background-color: black;   /* #474e5d; /* Dark Blue */
       color: #ffffff;
   }
   .bg-3 {
-      background-color: green;  /*#FFD7BE;  pink */
-      color: #ffffff;/*#555555;*/
+      background-color:  #d99d29;   /* #FFD7BE; /* pink */
+      color: #555555;
   }
   .bg-4 {
       background-color: #2f2f2f; /* Black Gray */
@@ -30,13 +29,13 @@ margin-top: 0;}
       padding-top: 15px;
       padding-bottom: 15px;
       border: 0;
-      border-radius: 50;
-      margin-bottom: 0; 
+      border-radius: 0;
+      margin-bottom: 0;
       font-size: 12px;
       letter-spacing: 5px;
   }
-  .navbar-nav  li a: hover {
-      color: #1abc9c !important;
-}
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
 
 
